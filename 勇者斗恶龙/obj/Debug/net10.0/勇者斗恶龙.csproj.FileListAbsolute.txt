@@ -1,0 +1,14 @@
+C:\Users\32492\source\repos\勇者斗恶龙\bin\Debug\net10.0\勇者斗恶龙.exe
+C:\Users\32492\source\repos\勇者斗恶龙\bin\Debug\net10.0\勇者斗恶龙.deps.json
+C:\Users\32492\source\repos\勇者斗恶龙\bin\Debug\net10.0\勇者斗恶龙.runtimeconfig.json
+C:\Users\32492\source\repos\勇者斗恶龙\bin\Debug\net10.0\勇者斗恶龙.dll
+C:\Users\32492\source\repos\勇者斗恶龙\bin\Debug\net10.0\勇者斗恶龙.pdb
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.AssemblyInfoInputs.cache
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.AssemblyInfo.cs
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.csproj.CoreCompileInputs.cache
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.dll
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\refint\勇者斗恶龙.dll
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.pdb
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\勇者斗恶龙.genruntimeconfig.cache
+C:\Users\32492\source\repos\勇者斗恶龙\obj\Debug\net10.0\ref\勇者斗恶龙.dll
